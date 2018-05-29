@@ -38,9 +38,9 @@ Daily linear regression model with Gaussian Process residual,
 
 Daily Random Forest model.
 
-In order to build the spatial models, we pick 2017-10-03 as our target date, and try to fit spatial models (areal and point reference) for the PM2.5 concentration. The PM2.5 concentration in each station points and the average PM2.5 of all the stations in each districts are calculated respectively.
-
 ## Areal
+
+In order to build the spatial models, we pick 2017-10-03 as our target date, and try to fit spatial models (areal and point reference) for the PM2.5 concentration. The PM2.5 concentration in each station points and the average PM2.5 of all the stations in each districts are calculated respectively.
 
 The areal spatial models we fitted includes:
 
